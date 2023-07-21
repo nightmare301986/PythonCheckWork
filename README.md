@@ -61,5 +61,3 @@ Console app for managing notes
 7) logger.py - logging module
 8) Data_store/ - directory for JSON file with notes
 9) data_checker_and_filler.py - checker for files and directories to exist
-
-![structure.png](structure.png)
